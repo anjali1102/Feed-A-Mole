@@ -1,6 +1,6 @@
 # Feed-A-Mole 😄
 
-                                                LIVE DEMO ➡
+                                                LIVE DEMO ➡  https://anjali1102.github.io/Feed-A-Mole.github.io/
 
  A fun variant on the game Whack-A-Mole 🌟✨
 
